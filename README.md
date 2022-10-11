@@ -1,18 +1,6 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
+
 
 # Datathon
-
-¡Bienvenidos al Datathon de Henry! Durante esta semana estarán poniendo en práctica sus habilidades en el campo de la predicción. Deberán usar cierta métrica para medir la performance del modelo y que, a su vez, será usada para elegir los mejores modelos.
-
-## Información relevante
-
-Esta datathon es una instancia de evaluación, por lo cual es INDIVIDUAL y OBLIGATORIO para los alumnos de Data Science de Henry. Se disponibilizará un google forms y pueden cargarse los resultados las veces que quieran. Es obligatorio que todos disponibilicen el código utilizado, para validar los modelos construidos.
-
-## Logística del comercio mundial
-
-La logística es un mercado vital en el mundo globalizado y conectado donde vivimos, coordinar el transporte de toda la cadena de suministros desde donde son producidos los bienes hasta que llegan al cliente final es una tarea compleja, que debe ser planificada y ejecutada correctamente para el funcionamiento del comercio, tanto local como mundial. 
-
-Gracias a las nuevas herramientas como el uso de geolocalizadores, registros digitales de entrada/salida de los centros de distribución, distintos medios de transporte terrestres, marítimos y aéreos, además de las herramientas de IoT en toda la cadena de suministro y producción, es posible acumular muchísimos datos, que pueden ser analizados para optimizar los procesos logísticos.
 
 ## Descripción del problema
 
@@ -48,11 +36,4 @@ Se proveen los archivos:
 - Reached.on.Time_Y.N: Información sobre la llegada del paquete a destino (1 si llegó a tiempo, 0 si no llegó a tiempo).
 
 
-## Sugerencias
-
-- Exploren el dataset. Saquen medidas resumen, vean distribuciones de los datos, analicen bien el tipo de problema, etc.
-- Piensen que tipo de modelo podría ser aplicable según la descripción del problema y el tipo de variable de salida.
-- Busquen información sobre la métrica aplicada, cada métrica tiene pros y contras.
-- En cuanto a la utilización de git, recuerden que si quieren hacer un cambio experimental pero no quieren romper el modelo, pueden utilizar [branching](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging).
-- Aprovechen esta instancia de aprendizaje, experimenten y, sobre todo, diviértanse!
 
